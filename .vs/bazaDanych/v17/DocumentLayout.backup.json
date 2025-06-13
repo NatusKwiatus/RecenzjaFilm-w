@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\views\\home\\edytujocene.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:views\\home\\edytujocene.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\views\\home\\dodajocene.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:views\\home\\dodajocene.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\services\\interfaces\\ifilmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:services\\interfaces\\ifilmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\models\\bazadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:models\\bazadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:services\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\models\\wpis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:models\\wpis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|c:\\users\\natan\\desktop\\recenzjefilmow\\bazadanych\\migrations\\20250613212104_dane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47108AE7-EED8-4A17-AF6A-CE9F062383A9}|bazaDanych.csproj|solutionrelative:migrations\\20250613212104_dane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250613212104_dane.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Migrations\\20250613212104_dane.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250613212104_dane.cs",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Migrations\\20250613212104_dane.cs",
+              "RelativeToolTip": "Migrations\\20250613212104_dane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:21:04.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EdytujOcene.cshtml",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Views\\Home\\EdytujOcene.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\EdytujOcene.cshtml",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Views\\Home\\EdytujOcene.cshtml",
+              "RelativeToolTip": "Views\\Home\\EdytujOcene.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T21:19:41.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DodajOcene.cshtml",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Views\\Home\\DodajOcene.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DodajOcene.cshtml",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Views\\Home\\DodajOcene.cshtml",
+              "RelativeToolTip": "Views\\Home\\DodajOcene.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T20:18:40.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wpis.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Models\\Wpis.cs",
+              "RelativeDocumentMoniker": "Models\\Wpis.cs",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Models\\Wpis.cs",
+              "RelativeToolTip": "Models\\Wpis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T19:16:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFilmService.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Services\\Interfaces\\IFilmService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFilmService.cs",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Services\\Interfaces\\IFilmService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFilmService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T19:18:50.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FilmService.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Services\\FilmService.cs",
+              "RelativeDocumentMoniker": "Services\\FilmService.cs",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Services\\FilmService.cs",
+              "RelativeToolTip": "Services\\FilmService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T19:18:33.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BazaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Models\\BazaDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BazaDbContext.cs",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Models\\BazaDbContext.cs",
+              "RelativeToolTip": "Models\\BazaDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:36:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "Models\\Film.cs",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Models\\Film.cs",
+              "RelativeToolTip": "Models\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T19:15:08.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:38:21.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T19:20:22.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T19:21:55.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\natan\\Desktop\\RecenzjeFIlmow\\bazaDanych\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:37:48.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿@model List<bazaDanych.Models.Film>
+
+@{
+    ViewData["Title"] = "Lista filmów";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Tytuł</th>
+            <th>Opis</th>
+            <th>Ocena</th>
+            <th>Recenzja</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var film in Model)
+        {
+            <tr>
+                <td>@film.Tytul</td>
+                <td>@film.Opis</td>
+                <td>@(film.Wpis != null ? film.Wpis.Ocena.ToString() : "Brak")</td>
+                <td>@(film.Wpis != null ? film.Wpis.Recenzje : "Brak")</td>
+                <td>
+                    <!-- Przycisk do dodania lub edytowania oceny -->
+                    <a asp-action="DodajOcene" asp-route-filmId="@film.Id" class="btn btn-sm btn-primary">
+                        Dodaj
+                    </a>
+                    <a asp-action="EdytujOcene" asp-route-id="@film.WpisId" class="btn btn-sm btn-warning">Edytuj ocenę</a>
+
+                    <!-- Przycisk do usunięcia oceny -->
+                    @if (film.WpisId != 0)
+                    {
+                        <form asp-action="UsunOcene" asp-route-wpisId="@film.WpisId" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Na pewno usunąć ocenę?');">
+                                Usuń ocenę
+                            </button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

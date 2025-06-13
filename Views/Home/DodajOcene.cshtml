@@ -1,0 +1,38 @@
+﻿@model bazaDanych.Models.Wpis
+
+@{
+    ViewData["Title"] = "DodajOcene";
+}
+
+<h1>DodajOcene</h1>
+
+<h4>Wpis</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DodajOcene">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ocena" class="control-label"></label>
+                <input asp-for="Ocena" class="form-control" />
+                <span asp-validation-for="Ocena" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Recenzje" class="control-label"></label>
+                <input asp-for="Recenzje" class="form-control" />
+                <span asp-validation-for="Recenzje" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
